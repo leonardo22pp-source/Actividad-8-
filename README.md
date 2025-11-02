@@ -1,18 +1,16 @@
-## Getting Started
+# Actividad 8 Concesionario POO en Python
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Nombre: Oscar Leonardo Pedraza Peña
+Fecha: 2 de noviembre de 2025  
 
-## Folder Structure
+##  Descripción
+Este programa simula el funcionamiento de un concesionario de vehículos usando Programación Orientada a Objetos en Python.  
+Incluye clases abstractas, herencia y polimorfismo.
 
-The workspace contains two folders by default, where:
+## Las cases incluidas son:
+- Vehiculo
+- Automovil 
+- Moto
+- Consecionario
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Al ejecutar el programa aparecera la informacion de cada vehiculo con su respectivo precio final, todo en una tabla.
